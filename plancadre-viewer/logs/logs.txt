@@ -2521,3 +2521,19 @@ java.util.NoSuchElementException: Il n'y a pas de competence avec ce code de com
 5393 [http-nio-8080-exec-1] INFO  org.apache.juli.logging.DirectJDKLog - Initializing Spring DispatcherServlet 'dispatcherServlet'
 5394 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.FrameworkServlet - Initializing Servlet 'dispatcherServlet'
 5412 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.FrameworkServlet - Completed initialization in 18 ms
+707  [main] INFO  org.springframework.boot.StartupInfoLogger - Starting Application on DESKTOP-JBGLR43 with PID 5016 (G:\Projet Info\Back end\plan-cadre-viewer-back\plancadre-viewer\target\classes started by EterNaL in G:\Projet Info\Back end\plan-cadre-viewer-back\plancadre-viewer)
+724  [main] INFO  org.springframework.boot.SpringApplication - No active profile set, falling back to default profiles: default
+2030 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2039 [main] INFO  org.apache.juli.logging.DirectJDKLog - Initializing ProtocolHandler ["http-nio-8080"]
+2039 [main] INFO  org.apache.juli.logging.DirectJDKLog - Starting service [Tomcat]
+2040 [main] INFO  org.apache.juli.logging.DirectJDKLog - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2113 [main] INFO  org.apache.juli.logging.DirectJDKLog - Initializing Spring embedded WebApplicationContext
+2114 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1313 ms
+2256 [main] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport - Initializing ExecutorService 'applicationTaskExecutor'
+2360 [main] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport - Initializing ExecutorService 'taskScheduler'
+2379 [main] INFO  org.apache.juli.logging.DirectJDKLog - Starting ProtocolHandler ["http-nio-8080"]
+2405 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2412 [main] INFO  org.springframework.boot.StartupInfoLogger - Started Application in 2.098 seconds (JVM running for 2.673)
+9141 [http-nio-8080-exec-1] INFO  org.apache.juli.logging.DirectJDKLog - Initializing Spring DispatcherServlet 'dispatcherServlet'
+9142 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.FrameworkServlet - Initializing Servlet 'dispatcherServlet'
+9150 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.FrameworkServlet - Completed initialization in 8 ms
