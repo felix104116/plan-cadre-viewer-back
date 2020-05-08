@@ -1,0 +1,172 @@
+{	
+	"Programme": "Technique de l'informatique",
+	"CodeProgramme": "420.B0",
+    "Code": "201-KA3-LG",
+    "Session": "1",
+    "Titre": "Éléments de statistiques appliqués à l'informatique",
+    "Theorie": "4",
+    "Pratique": "4",
+    "Personnel": "3",
+	"Annee": "2020",
+    "Presentation": "Ce cours est une introduction aux méthodes généralement utilisées en programmation et en algorithmie pour développer des applications simples. Le langage de programmation utilisé est le C# et l’environnement de développement intégré est Visual Studio. On y aborde, entre autres, le cycle de développement logiciel, les données, les opérations de base, les expressions, les structures algorithmiques et le découpage en fonctions. On insiste sur les tests, la qualité du code et le bon fonctionnement de l’application.",
+    "ContributionAuProgramme": "Ce cours est le premier de l’axe Programmation, la branche fondamentale et porteuse de tous les cours de la formation spécifique. L’apport des notions du cours de mathématiques seront réinvesties dans ce cours, particulièrement concernant les notions d’opérateurs arithmétiques, des opérations logiques et de la représentation des nombres. Il faudra donc s’assurer de bien synchroniser les deux cours. L’étudiant ou l’étudiante devra aussi développer une méthode de travail mettant l’accent sur la qualité de la conception et de la codification, le bon fonctionnement de l’application en fonction des demandes, l’usage des tests et l’auto-documentation du code qui lui servira dans les cours suivants de l’axe programmation. 
+
+Il faut se référer au logigramme des préalables pour connaitre les cours dont celui-ci est préalable.
+",
+    "ObjectifIntegrateur": "À partir d’une description des fonctionnalités, l’étudiant sera en mesure de créer une application simple, complète et robuste en utilisant Visual Studio et les bases de la programmation C#.",
+    "Competences": [
+		{
+			"Code": "00Q2",
+			"Elements": [
+				"1",
+				"2"
+			]
+		},
+		{
+			"Code": "00Q3",
+			"Elements": [
+				"3"
+			]
+		}
+	],
+   	"EvaluationDesApprentissages": {
+	"Titre": "Production finale d’intégration",
+	"Description": "
+			La PFI doit permettre d’évaluer l’atteinte individuelle de l’objectif d’intégration. L’étudiant ou l’étudiante doit avoir été préalablement confronté à des évaluations semblables mais de moindre envergure au cours de la session. 
+
+			Pour ce cours, la production finale d’intégration doit contenir les deux parties suivantes : ",
+	"Evaluations": [
+		{
+			"Element": "Un travail synthèse individuel portant sur l’intégration de toutes les notions vues durant la session. Ce travail doit être suffisamment complet de façon à permettre: ",
+			"Details": [
+			"L’application de tout le cycle de développement",
+			"L’utilisation de tous les types d’expression et structures algorithmique",
+			"L’utilisation de structures de données simples comme les tableaux 1D et 2D",
+			"Le découpage de la solution en plusieurs fichiers sources et plusieurs fonctions"
+			]
+		},
+		{
+			"Element": "Une évaluation supervisée en classe. L’évaluation peut être théorique, pratique ou comporter les deux volets. Les deux volets de l’évaluation supervisée peuvent être exécutés à des moments différents. L’évaluation supervisée en classe doit compter pour au moins la moitié de la pondération de la PFI et l’obtention de la note de passage est obligatoire pour la réussite du cours. Cette évaluation doit minimalement inclure :",
+			"Details": [
+			"Les opérations de base",
+			"Les expressions arithmétiques, relationnelles et logiques",
+			"Les structures algorithmiques: séquence, alternative et répétitive ",
+			"L’utilisation et la programmation de méthodes de classe"
+			]
+		}
+	],
+	"Criteres":[
+		"Analyse correcte du problème",
+		"Respect des consignes et implémentation des fonctionnalités demandées",
+		"Choix des types et des structures de données appropriées",
+		"Modularisation correct du code en fichiers et en fonctions",
+		"Clarté du code et respect des normes de programmation",
+		"Tests et robustesse de l’application"
+	],
+	"DetaillePourcentage": "
+	Le pourcentage de la production finale d’intégration à l’intérieur de l’évaluation sommative du cours doit être compris entre 30% et 40% inclusivement. 
+	Les modalités d’évaluation de la PFI et le plan d’évaluation dans son ensemble doivent respecter la règle départementale sur l’équivalence des évaluations et la politique institutionnelle d’évaluation des apprentissages (PIEA) en vigueur.
+
+	En plus d’avoir cumulé 60 % et plus du total de toutes les évaluations (incluant la production finale d’intégration), la réussite de ce cours est sujette à une condition particulière: réussir la partie de la production finale d’intégration qui comporte l’évaluation supervisée en classe avec un minimum de 60 %. Ainsi, l’échec à cette partie de la production finale d’intégration équivaudra à une note maximale de 59 % pour ce cours.
+
+	Le pourcentage de la production finale d’intégration à l’intérieur de l’évaluation sommative du cours doit respecter les règles prescrites par la PIEA. ",
+	"QualiteLangue": "L’évaluation du français se fait en conformité avec la PIEA ainsi que les règles et procédures départementales d’évaluation des apprentissages qui en découlent."
+},
+    "Objectifs": [
+      {
+        "Competence": " Développer des solutions informatiques",
+        "Elements": [
+          " Introduction au cycle de développement logiciel (analyse, élaboration, codification, tests)",
+          " Les éléments de base d’un algorithme (intrants, traitement, extrant)",
+          " Les données (variable, constante littérale et constante symbolique)",
+          " Les opérations de base (lecture, écriture, affectation)",
+          " Les expressions (arithmétiques, relationnelles, logiques)",
+          " Les structures algorithmiques: séquence, alternative (complète et incomplète), répétitive (classique, boucle à compteur, boucle conditionnelle)",
+          " L’imbrication des structures algorithmiques",
+          " Le développement graduel",
+          " Le découpage en fonctions",
+          " Les mécanismes d’échange d’informations",
+          " Les jeux d’essais (valeurs limites, extrêmes et erronées)"
+        ]
+      },
+	  {
+		"Competence": "Coder des algorithmes dans le langage de programmation C#",
+        "Elements": [
+			"Les commentaires minimalistes, les entêtes de fichiers et les standards de documentation .NET (mettre l’emphase sur la clarté du code source)",
+			"L’utilisation de bibliothèques standards et d’espaces nommés (using)",
+			"La structure générale d’un programme et le programme principal",
+			"L’appel de fonctions",
+			"L’utilisation de fonctions mathématiques ",
+			"Les if, switch, while, do..while, for",
+			"Les entrées et sorties à la console",
+			"Les principaux types de données (nombres intégraux, nombres à virgule flottante, Texte, booléens)",
+			"Particularités reliées à l’encodage des nombres entiers et des réels",
+			"La variable (déclaration, portée, initialisation) ",
+			"Les énumérations",
+			"Les opérateurs (priorités, associativité) pour enseigner une syntaxe portable",
+			"Les conversions implicites et explicites (float.Parse, int.Parse)",
+			"La conception et la programmation de méthodes de classe (appel, signature, définition, entête, paramètres, variables locale,valeur de retour et portée des variables)",
+			"Les paramètres par valeur La pile d’appels – démontrer les concepts sans tomber dans la mécanique fine ",
+			"La gestion de la mémoire (pile et tas) – démontrer les concepts sans tomber dans la mécanique fine ",
+			"Les types « valeur » et « référence »",
+			"L’instanciation et utilisation d’objets appartenant à des classes prédéfinies (par exemple, Random, Stopwatch ou classes fournies), accès aux membres, passage en paramètre d’un objet",
+			"Une introduction aux tableaux 1D et 2D (Array 1D et 2D, tableau de tableaux (jagged array), valeur null, déclaration, allocation, initialisation, utilisation, passage en paramètre, débordements, parcours efficace)",
+			"Une introduction aux algorithmes de tri (tri par sélection, tri bulle, comparaison)",
+			"La documentation XML (bornes summary, param, para, exception, etc.)",
+			"La notion de passage de paramètres (string [] args) à un programme"
+		]
+	  },
+	  {
+		"Competence": "Utiliser les fonctionnalités de base de l’environnement de développement intégré Visual ",
+        "Elements": [
+			"Installation de Visual Studio sur son ordinateur",
+			"La manipulation de solutions et de projets",
+			"L’édition du code",
+			"L’exécution des programmes",
+			"Le débogage (points arrêts, pas-à-pas, espions)"
+		]
+	  },
+	  {
+		"Competence": "Utiliser les fonctionnalités de base d’une librairie graphique simple (Exemple: SFML)",
+			"Elements": [
+			"Création d’une fenêtre (RenderWindow)",
+			"Chargement d’une texture (Texture)",
+			"Création d’un sprite (Sprite) ",
+			"Utilisation du clavier (Keyboard)",
+			"Transformation dans le plan (translation, rotation et homothétie) "
+		]
+	  },
+	  {
+		"Competence": "Démontrer du professionnalisme, de l’autonomie et de la rigueur",
+		"Elements": [
+			"Prendre connaissance et respecter le code d’éthique des étudiants et étudiantes en Techniques de l’informatique",
+			"S’engager dans une démarche structurée de résolution de problèmes",
+			"Utiliser le débogueur ",
+			"Utiliser l’aide en ligne ",
+			"Respecter les normes de programmation ",
+			"Appliquer méthodiquement des plans de tests fonctionnels"
+		]
+	  }
+    ],
+    "ManuelObligatoire": "Aucun.",
+    "Recommandation": [
+      "Lors de l’assemblée du 2 mai 2018, les membres du département d’informatique ont recommandé à l’unanimité l’adoption du plan-cadre du cours Introduction à la programmation (420-KB1-LG).",
+      "Lors de la rencontre du 9 mai 2018, les membres du comité de programme des techniques de l’informatique ont recommandé à l’unanimité l’adoption du plan-cadre du cours Introduction à la programmation (420-KB1-LG)."
+    ],
+	"Successeurs":[
+		{
+		"Code": "420-KEP-LG",
+		"Commentaire":"Stage obligatoire"
+		}
+	],
+	"Prealables":[
+		{
+		"Code": "420-KB1-LG",
+		"Commentaire":"(Obligatoire)"
+		},
+		{
+		"Code": "420-KB1-TE",
+		"Commentaire":"(Test)"
+		},
+	]
+}

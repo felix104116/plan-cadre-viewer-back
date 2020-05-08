@@ -1,0 +1,53 @@
+{
+	"CodeCompetence": "00Q3",
+	"EnonceCompetence": "Utiliser des langages de programmation",
+	"ContexteDeRealisation": [
+		"Pour des problèmes dont la solution est simple.",
+		"À l’aide d’algorithmes de base.",
+		"À l’aide d’un débogueur et d’un plan de tests fonctionnels."
+	],
+	"Competences": [
+		{
+			"Id": 1,
+			"Description": "Analyser le problème.",
+			"Criteres": [
+				"Décomposition correcte du problème.",
+				"Détermination correcte des données d’entrée, des données de sortie et de la nature des traitements.",
+				"Choix et adaptation appropriés de l’algorithme."
+			]
+		},
+		{
+			"Id": 2,
+			"Description": "Traduire l'algorithme dans le langage de programmation.",
+			"Criteres": [
+				"Choix approprié des instructions et des types de données élémentaires.",
+				"Découpage efficace du code informatique.",
+				"Organisation logique des instructions.",
+				"Respect de la syntaxe du langage.",
+				"Code informatique conforme à l’algorithme."
+			]
+		},
+		{
+			"Id": 3,
+			"Description": "Déboguer le code",
+			"Criteres": [
+				"Utilisation efficace du débogueur.",
+				"Repérage complet des erreurs.",
+				"Détermination judicieuse de stratégies de correction des erreurs.",
+				"Pertinence des correctifs.",
+				"Notation claire des solutions aux problèmes rencontrés"
+			]
+		},
+		{
+			"Id": 4,
+			"Description": "Appliquer le plan de tests fonctionnels.",
+			"Criteres": [
+				"Manifestation d’attitudes et de comportements empreints de rigueur.",
+				"Repérage complet des erreurs de fonctionnement.",
+				"Pertinence des correctifs.",
+				"Fonctionnement correct du programme.",
+				"Notation claire de l’information relative aux tests et à leurs résultats."
+			]
+		},
+	]
+}

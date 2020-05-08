@@ -1,0 +1,23 @@
+<configuration>
+
+    <appender name="STDOUT"
+              class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>%-4relative [%thread] %-5level %class - %msg%n</pattern>
+        </layout>
+    </appender>
+
+    <appender name="FILE"
+              class="ch.qos.logback.core.FileAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>%-4relative [%thread] %-5level %class - %msg%n</pattern>
+        </layout>
+        <File>logs/logs.txt</File>
+    </appender>
+
+    <root>
+        <level value="info" />
+        <appender-ref ref="STDOUT" />
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>
